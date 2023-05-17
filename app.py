@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 from sklearn.preprocessing import StandardScaler
 import pickle
-st.title('Medical Diagnostic Prediction App😊 💋💋💋🌹')
+st.title('Medical Diagnostic Prediction App😊')
 st.markdown('Does the Person have Diabetics')
 
 #step1 : load the trained model
